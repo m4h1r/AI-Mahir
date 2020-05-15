@@ -6,7 +6,7 @@ I will start from scratch with the console. My aim developing an assistant which
 
 So please help me.
 
-<h3>Mahir Yıldızhan</h3
+<h3>Mahir Yıldızhan</h3>
 https://mahiryildizhan.com/
 
 <hr>
