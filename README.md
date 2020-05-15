@@ -6,6 +6,9 @@ I will start from scratch with the console. My aim developing an assistant which
 
 So please help me.
 
+Mahir Yıldızhan
+https://mahiryildizhan.com/
+
 <hr>
 <h1>Requests</h1>
 <ul>
