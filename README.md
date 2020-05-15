@@ -13,5 +13,6 @@ So please help me.
 <h1>Requests</h1>
 <ul>
 <li>SpeechRecognition 3.8.1 (https://pypi.org/project/SpeechRecognition/)</li>
+<li>pyttsx3 2.87 (https://pypi.org/project/pyttsx3/)</li>
 <li></li>
 </ul> 
