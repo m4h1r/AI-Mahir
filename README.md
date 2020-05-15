@@ -16,6 +16,6 @@ So please help me.
 <li>pyttsx3 2.87 (https://pypi.org/project/pyttsx3/)</li>
 <li>PyAudio 0.2.11 (https://pypi.org/project/PyAudio/)
 <br>If you have issues while you install PyAudio first use below code;
-<br>sudo apt-get install portaudio19-dev</li>
+<br>[code]sudo apt-get install portaudio19-dev[code]</li>
 <li></li>
 </ul> 
