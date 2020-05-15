@@ -7,7 +7,7 @@ I will start from scratch with the console. My aim developing an assistant which
 So please help me.
 
 <h3>Mahir Yıldızhan</h3>
-https://mahiryildizhan.com/
+<a href="https://mahiryildizhan.com/" target="_blank">https://mahiryildizhan.com/</a>
 
 <hr>
 <h1>Requests</h1>
